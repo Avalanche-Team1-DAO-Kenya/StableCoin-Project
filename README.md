@@ -29,9 +29,9 @@ The StableCoin Project is a decentralized stablecoin pegged to the USD, offering
 
 ### Prerequisites
 Ensure you have the following tools installed:  
-- [Solidity](https://soliditylang.org/)  
+- [Git](https://git-scm.com/downloads)  
 - [Foundry](https://book.getfoundry.sh/)  
-- A wallet like [Metamask](https://metamask.io/)  
+
 
 ---
 
